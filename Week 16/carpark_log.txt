@@ -1,0 +1,12 @@
+[2025-11-20 14:10:46] Carpark Manager 'My Carpark' initialised with capacity 100.
+[2025-11-20 14:11:12] Temperature reading: 1.0 °C
+[2025-11-20 14:11:13] Temperature reading: 10.0 °C
+[2025-11-20 14:11:13] Temperature reading: 100.0 °C
+[2025-11-20 14:11:21] Car 1awq123 entered at 14:11:21. Spaces left: 99
+[2025-11-20 14:11:22] Car 1awq123 attempted to enter but is already inside.
+[2025-11-20 14:11:25] Car 1awq123 exited at 14:11:25. Spaces left: 100
+[2025-11-20 14:11:26] Car 1awq123 attempted to exit but was not found.
+[2025-11-20 14:13:05] Car 1awq123 attempted to exit but was not found.
+[2025-11-20 14:13:06] Car 1awq123 attempted to exit but was not found.
+[2025-11-20 14:13:08] Car 1awq123 entered at 14:13:08. Spaces left: 99
+[2025-11-20 14:13:08] Car 1awq123 attempted to enter but is already inside.
